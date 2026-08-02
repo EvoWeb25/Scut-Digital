@@ -46,7 +46,7 @@ Disponibil în curând.
 
 Dacă vrei să fii anunțat când primele pachete premium Scut Digital vor fi disponibile, completează formularul de mai jos:
 
-[Completează formularul de interes pentru Scut Digital Premium](https://docs.google.com/forms/d/e/1FAIpQLSfWwNXT-5_zF_vVdBucqe0jJuy_hYxEee_ns8zSW5nBb7ry5A/viewform?usp=publish-editor)
+[Completează formularul de interes pentru Scut Digital Premium]([https://docs.google.com/forms/d/e/1FAIpQLSfWwNXT-5_zF_vVdBucqe0jJuy_hYxEee_ns8zSW5nBb7ry5A/viewform?usp=publish-editor](https://docs.google.com/forms/d/e/1FAIpQLSfWwNXT-5_zF_vVdBucqe0jJuy_hYxEee_ns8zSW5nBb7ry5A/viewform))
 
 Nu cerem parole, coduri de verificare, date bancare sau informații sensibile.
 
