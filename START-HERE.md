@@ -1,4 +1,4 @@
-```markdown
+
 # Start aici
 
 Bine ai venit în Scut Digital.
@@ -50,3 +50,10 @@ Citește modulele în această ordine:
 4. Telefon și PC
 5. Afaceri mici
 6. Plan de urgență
+7. ## Recomandare
+
+Parcurge modulele în ordine.
+
+Nu încerca să faci totul într-o singură zi.
+
+Aplică un pas mic pe zi și verifică fiecare cont important.
