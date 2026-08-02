@@ -50,7 +50,8 @@ Citește modulele în această ordine:
 4. Telefon și PC
 5. Afaceri mici
 6. Plan de urgență
- ## Recomandare
+
+## Recomandare
 Parcurge modulele în ordine.
 
 Nu încerca să faci totul într-o singură zi.
