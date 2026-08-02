@@ -5,6 +5,41 @@ Scut Digital este un proiect educațional gratuit pentru protecție digitală.
 Te ajută să înveți, pas cu pas, cum să îți protejezi conturile, telefonul, calculatorul, social media, website-ul și mica afacere.
 
 Limbaj simplu. Pași practici. Fără panică.
+## Premium — Disponibil în curând
+
+Pregătim pachete premium Scut Digital pentru cei care vor materiale mai complete, mai organizate și gata de folosit.
+
+Partea gratuită rămâne disponibilă pentru toți.
+
+Materialele premium pot include:
+
+- checklisturi avansate
+- ghiduri PDF
+- templateuri editabile
+- planuri de verificare lunară
+- pachete pentru creatori de conținut
+- pachete pentru afaceri mici
+- pachete pentru website-uri WordPress
+
+### Primele pachete propuse
+
+**Scut Digital Starter Pack**
+
+Pentru persoane fizice care vor să își protejeze conturile principale, telefonul, parolele și social media.
+
+**Scut Digital Creator Pack**
+
+Pentru creatori TikTok, YouTube, Instagram și Facebook care vor să își protejeze conturile și comunitatea.
+
+**Scut Digital Small Business Pack**
+
+Pentru mici afaceri care vor să își protejeze emailul profesional, website-ul, domeniul, hostingul și paginile social media.
+
+### Status
+
+Disponibil în curând.
+
+În această etapă testăm interesul pentru pachetele premium.
 
 ## Start rapid
 
