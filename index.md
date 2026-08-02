@@ -36,11 +36,19 @@ Pentru creatori TikTok, YouTube, Instagram și Facebook care vor să își prote
 
 Pentru mici afaceri care vor să își protejeze emailul profesional, website-ul, domeniul, hostingul și paginile social media.
 
-### Status
+#### Status
 
 Disponibil în curând.
 
 În această etapă testăm interesul pentru pachetele premium.
+
+### Înscrie-te pe lista de interes
+
+Dacă vrei să fii anunțat când primele pachete premium Scut Digital vor fi disponibile, completează formularul de mai jos:
+
+[Completează formularul de interes pentru Scut Digital Premium](https://docs.google.com/forms/d/e/1FAIpQLSfWwNXT-5_zF_vVdBucqe0jJuy_hYxEee_ns8zSW5nBb7ry5A/viewform?usp=publish-editor)
+
+Nu cerem parole, coduri de verificare, date bancare sau informații sensibile.
 
 ## Start rapid
 
