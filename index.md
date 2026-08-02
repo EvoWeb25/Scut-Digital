@@ -5,6 +5,7 @@ Scut Digital este un proiect educațional gratuit pentru protecție digitală.
 Te ajută să înveți, pas cu pas, cum să îți protejezi conturile, telefonul, calculatorul, social media, website-ul și mica afacere.
 
 Limbaj simplu. Pași practici. Fără panică.
+
 ## Premium — Disponibil în curând
 
 Pregătim pachete premium Scut Digital pentru cei care vor materiale mai complete, mai organizate și gata de folosit.
