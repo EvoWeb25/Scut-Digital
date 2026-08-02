@@ -52,7 +52,6 @@ Citește modulele în această ordine:
 6. Plan de urgență
 
  ## Recomandare
-
 Parcurge modulele în ordine.
 
 Nu încerca să faci totul într-o singură zi.
